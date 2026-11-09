@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38EF7D&center=true&vCenter=true&random=false&width=720&height=70&lines=AI+%26+Data+Engineering+%40+NIAT+%E2%80%A2+Class+of+2029;Full-Stack+Developer;Gen+AI+Builder+%E2%80%94+LLMs+%2B+RAG;DSA+in+C%2B%2B%2C+every+single+day;Full+Stack+AI+Native+Intern+%40+Oxygen+Sports" alt="Typing SVG" />
 
 <p>
-<a href="https://www.linkedin.com/in/sai-charith-talla-4a15a7373/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tallasaicharith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://student-os-sand.vercel.app"><img src="https://img.shields.io/badge/StudentOS-Live-11998e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/tallasaicharith?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-38ef7d?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
