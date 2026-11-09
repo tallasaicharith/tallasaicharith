@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Sai%20Charith%20Talla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38EF7D&center=true&vCenter=true&random=false&width=720&height=70&lines=AI+%26+Data+Engineering+%40+NIAT+%E2%80%A2+Class+of+2029;Full-Stack+Developer;Gen+AI+Builder+%E2%80%94+LLMs+%2B+RAG;DSA+in+C%2B%2B%2C+every+single+day;Full+Stack+AI+Native+Intern+%40+Oxygen+Sports" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38EF7D&center=true&vCenter=true&random=false&width=720&height=70&lines=AI+%26+Data+Engineering+%40+NIAT+%E2%80%A2+Class+of+2029;Full-Stack+Developer;Gen+AI+Builder+%E2%80%94+LLMs+%2B+RAG;DSA+in+C%2B%2B%2C+every+single+day" alt="Typing SVG" />
 
 <p>
-<a href="https://www.linkedin.com/in/tallasaicharith/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sai-charith-talla-4a15a7373/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://student-os-sand.vercel.app"><img src="https://img.shields.io/badge/StudentOS-Live-11998e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/tallasaicharith?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-38ef7d?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
@@ -17,7 +17,6 @@
 ```cpp
 struct SaiCharith {
     string role        = "B.Tech AI & Data Engineering @ NIAT, Hyderabad (2025-29)";
-    string experience  = "Full Stack AI Native Intern @ Oxygen Sports Equipment (Jun 2026)";
     string building    = "StudentOS - an AI-powered student productivity OS";
     vector<string> learning  = {"DSA in C++", "RAG & LLM apps", "System Design"};
     vector<string> interests = {"Computational thinking", "Full-stack", "Gen AI"};
@@ -39,7 +38,7 @@ AI-powered student productivity OS: tasks, habits, focus timer and resume analys
 <td width="50%" valign="top">
 
 **[Academy Contract Renewal Tracker](https://github.com/tallasaicharith/academy-annual-contract-renewal-tracker)**
-Tracks sports-academy equipment contracts, renewals and expiry alerts. Team of 3, built during my internship at Oxygen Sports.
+Tracks sports-academy equipment contracts, renewals and expiry alerts. Built in a team of 3 for Oxygen Sports.
 `React` `Express` `SQLite` `JWT`
 
 </td>
