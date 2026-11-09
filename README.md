@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Sai%20Charith%20Talla&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Engineering%20%40%20NIAT%20%E2%80%A2%20Class%20of%202029&descAlignY=56&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d&height=200&section=header&text=Sai%20Charith%20Talla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38EF7D&center=true&vCenter=true&width=720&height=60&lines=Full-Stack+Developer;Gen+AI+Builder+%E2%80%94+LLMs+%2B+RAG;DSA+in+C%2B%2B%2C+every+single+day;Full+Stack+AI+Native+Intern+%40+Oxygen+Sports" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38EF7D&center=true&vCenter=true&random=false&width=720&height=70&lines=AI+%26+Data+Engineering+%40+NIAT+%E2%80%A2+Class+of+2029;Full-Stack+Developer;Gen+AI+Builder+%E2%80%94+LLMs+%2B+RAG;DSA+in+C%2B%2B%2C+every+single+day;Full+Stack+AI+Native+Intern+%40+Oxygen+Sports" alt="Typing SVG" />
 
 <p>
 <a href="https://www.linkedin.com/in/sai-charith-talla-4a15a7373/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -115,15 +115,10 @@ Multi-page business website with analytics and SEO.
 <b>Base44 Hands-On App Building Workshop</b> · NIAT × Base44 · 2025
 </p>
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">GitHub Activity</h2>
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tallasaicharith&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38EF7D&icon_color=38EF7D&text_color=FFFFFF&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=tallasaicharith&hide_border=true&background=0D1117&stroke=38EF7D&ring=38EF7D&fire=11998E&currStreakLabel=38EF7D&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
-</div>
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tallasaicharith&layout=compact&hide_border=true&bg_color=0D1117&title_color=38EF7D&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tallasaicharith&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=38EF7D&line=11998E&point=FFFFFF&area=true&area_color=38EF7D" />
+<img width="60%" src="https://streak-stats.demolab.com/?user=tallasaicharith&hide_border=true&background=0D1117&stroke=38EF7D&ring=38EF7D&fire=11998E&currStreakLabel=38EF7D&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA" />
 </div>
 
 <div align="center">
